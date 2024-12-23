@@ -14,11 +14,15 @@ password: 12345678
 
 وارد پنل مدیریت شدید
 
-* پروژه درس ریزپردازنده
-  نیمسال اول 1403 دکتر محسن عباسی
 
-  سازندگان:
-  وحید سیدی:  www.github.com/vahidseyyedi
-  زکیه داستانی: www.github.com/Zakiyeh-d
+
+* پروژه درس ریزپردازنده
+نیمسال اول 1403 دکتر محسن عباسی
+
+سازندگان:
+  
+وحید سیدی:  www.github.com/vahidseyyedi
+  
+زکیه داستانی: www.github.com/Zakiyeh-d
  
   
